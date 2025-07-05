@@ -94,3 +94,12 @@ In the meantime, here’s what I’m working on:
 > “Data is the new oil—but only when refined.”
 
 Thanks for visiting my profile!
+
+
+## 📈 GitHub Stats 
+
+<p align="left">
+  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=tushar2704&theme=prussian&show_icons=true" />
+  <img width="29%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar2704&count_private=true&theme=prussian" />
+
+</p>
