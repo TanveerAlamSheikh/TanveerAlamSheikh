@@ -101,5 +101,14 @@ Thanks for visiting my profile!
 <p align="left">
   <img width="70%" src="https://github-readme-stats.vercel.app/api?username=tanveeralamsheikh&theme=prussian&show_icons=true" />
   <img width="29%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanveeralamsheikh&count_private=true&theme=prussian" />
+</p>
 
+
+
+<img width="70%" src="https://github-profile-trophy.vercel.app/?username=tanveeralamsheikh&theme=prussian" />
+<br>
+
+<p ">
+<img align="left" width="50%" height="110%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanveeralamsheikh"/>
+<img  align="right" width="40%" height="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=tanveeralamsheikh&hide_border=true" />
 </p>
