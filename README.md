@@ -64,7 +64,7 @@ In the meantime, here’s what I’m working on:
 
 <p align="left">
   <img width="70%" src="https://github-readme-stats.vercel.app/api?username=tanveeralamsheikh&theme=prussian&show_icons=true" />
-  <img width="29%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanveeralamsheikh&count_private=true&theme=prussian" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanveeralamsheikh&count_private=true&theme=prussian" />
 </p>
 
 
