@@ -63,13 +63,13 @@ In the meantime, here’s what I’m working on:
 ## 📈 GitHub Stats 
 
 <p align="left">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=tanveeralamsheikh&theme=prussian&show_icons=true" />
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanveeralamsheikh&count_private=true&theme=prussian" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=tanveeralamsheikh&theme=prussian&show_icons=true" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanveeralamsheikh&count_private=true&theme=prussian" />
 </p>
 
 
 
-<img width="50%" src="https://github-profile-trophy.vercel.app/?username=tanveeralamsheikh&theme=prussian" />
+<img width="40%" src="https://github-profile-trophy.vercel.app/?username=tanveeralamsheikh&theme=prussian" />
 <br>
 
 <p ">
