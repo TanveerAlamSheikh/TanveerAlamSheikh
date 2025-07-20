@@ -64,7 +64,7 @@ In the meantime, here’s what I’m working on:
 
 <p align="left">
   <img width="40%" src="https://github-readme-stats.vercel.app/api?username=tanveeralamsheikh&theme=prussian&show_icons=true" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanveeralamsheikh&count_private=true&theme=prussian" />
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanveeralamsheikh&count_private=true&theme=prussian" />
 </p>
 
 
@@ -73,8 +73,8 @@ In the meantime, here’s what I’m working on:
 <br>
 
 <p ">
-<img align="left" width="50%" height="110%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanveeralamsheikh"/>
-<img  align="right" width="40%" height="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=tanveeralamsheikh&hide_border=true" />
+<img align="left" width="50%" height="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanveeralamsheikh"/>
+<img  align="right" width="40%" height="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=tanveeralamsheikh&hide_border=true" />
 </p>
 
 
