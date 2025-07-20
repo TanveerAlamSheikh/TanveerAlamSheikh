@@ -70,7 +70,6 @@ In the meantime, here’s what I’m working on:
 
 
 <img width="70%" src="https://github-profile-trophy.vercel.app/?username=tanveeralamsheikh&theme=prussian" />
-<img width="70%" src="https://github-profile-trophy.vercel.app/?username=tanveeralamsheikh&theme=onedark" />
 <br>
 
 <p ">
