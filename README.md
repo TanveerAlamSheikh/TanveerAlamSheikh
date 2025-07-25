@@ -1,3 +1,4 @@
+![logo](https://github.com/TanveerAlamSheikh/TanveerAlamSheikh.github.io/blob/main/assets%2FHubbanner.png)
 # 👋 Hi, I'm Tanveer Alam Sheikh
 
 🎯 **Certified Power BI Developer** | **Data Analyst** | **Business Insights Expert**
